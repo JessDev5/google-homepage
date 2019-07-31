@@ -1,0 +1,113 @@
+.first, .fourth {
+    color: #289CDF;
+}
+.second, .sixth {
+    color: #D81118;
+}
+.third {
+    color:#E5DF3E;
+}
+.fifth {
+    color:#17D155;
+}
+#header {
+    background-color: white;
+    text-align: right;
+}
+#left-header {
+    text-align: left;
+    left:10px;
+
+}
+
+.signin {
+height:35px;
+width: 70px;
+font-family: arial, sans-serif;
+font-size:13px;
+font-weight: normal;
+border: 1px solid white;
+border-radius: 5px;
+background-color:#ED6D23;
+color:#F3F4EE;
+cursor:text;
+}
+h5 {
+    display: inline;
+}
+#content {
+    height: 768px;
+    position: relative;
+    clear: both;
+}
+input {
+    width: 600px;
+    height: 30px;
+    border-radius: 15px;
+    border: 1px inset rgb(234, 234, 240);
+    font-size: 25px;
+    margin:auto;
+    cursor:text;
+}
+.search {
+    cursor: text;
+    height:20px;
+    width: 50px;
+    font-family: arial, sans-serif;
+    font-size:10px;
+    background-color: white;
+    border: 1px solid #ECCA1F
+    
+}
+.search:hover {
+    background-color:#D81118;
+    color:white;
+}
+.box {
+    text-align: center;
+    position: relative;
+    margin-top:-85px;
+}
+.two {
+    text-align:center;
+    margin-top:20px;
+}
+.hungry {
+    height:30px;
+    width:120px;
+    background-color: #F4ECDA;
+    border: 1 px solid white;
+    border-radius:5px;
+    font-family: arial, sans-serif;
+    cursor:pointer;
+}
+.hungry:hover {
+border:1px solid #ED6D23;
+font-weight:bold;
+}
+h1 {
+    font-size:8em;
+    font-family:sans-serif;
+}
+#logo {
+    text-align: center;
+    cursor:pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#footer {
+    height:50px;
+    background-color: #E8ECD6;
+    padding:5px;
+}
+h6 {
+    display: inline;
+}
+.alignleft {
+float:left;
+}
+.alignright {
+    float:right;
+}
+a {
+    text-decoration: none;
+}
